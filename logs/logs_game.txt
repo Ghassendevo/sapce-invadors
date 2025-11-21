@@ -1,0 +1,115 @@
+[2025-11-21 23:04:07] [SYSTEM] Logger initialized.
+[2025-11-21 23:04:07] [STATE] NONE -> MENU
+[2025-11-21 23:04:07] [EVENT] Game initialized.
+[2025-11-21 23:04:08] [STATE] MENU -> PLAYING
+[2025-11-21 23:04:08] [EVENT] Starting Wave 1
+[2025-11-21 23:04:12] [EVENT] Enemy killed | Score = 100
+[2025-11-21 23:04:15] [EVENT] Enemy killed | Score = 200
+[2025-11-21 23:04:16] [EVENT] Enemy killed | Score = 300
+[2025-11-21 23:04:16] [EVENT] Enemy killed | Score = 400
+[2025-11-21 23:04:24] [EVENT] Enemy killed | Score = 500
+[2025-11-21 23:04:42] [EVENT] Enemy killed | Score = 600
+[2025-11-21 23:04:42] [EVENT] Enemy killed | Score = 700
+[2025-11-21 23:04:42] [EVENT] Enemy killed | Score = 800
+[2025-11-21 23:04:42] [EVENT] Starting Wave 2
+[2025-11-21 23:04:42] [EVENT] Enemy killed | Score = 900
+[2025-11-21 23:04:43] [EVENT] Enemy killed | Score = 1000
+[2025-11-21 23:04:43] [EVENT] Enemy killed | Score = 1100
+[2025-11-21 23:04:45] [EVENT] Enemy killed | Score = 1200
+[2025-11-21 23:04:45] [EVENT] Enemy killed | Score = 1300
+[2025-11-21 23:04:45] [EVENT] Enemy killed | Score = 1400
+[2025-11-21 23:04:46] [EVENT] Enemy killed | Score = 1500
+[2025-11-21 23:04:47] [EVENT] Enemy killed | Score = 1600
+[2025-11-21 23:04:47] [EVENT] Enemy killed | Score = 1700
+[2025-11-21 23:06:52] [SYSTEM] Logger initialized.
+[2025-11-21 23:06:52] [STATE] NONE -> MENU
+[2025-11-21 23:06:53] [EVENT] Game initialized.
+[2025-11-21 23:06:54] [STATE] MENU -> PLAYING
+[2025-11-21 23:06:54] [EVENT] Starting Wave 1
+[2025-11-21 23:06:57] [EVENT] Enemy killed | Score = 100
+[2025-11-21 23:06:58] [EVENT] Enemy killed | Score = 200
+[2025-11-21 23:07:01] [EVENT] Enemy killed | Score = 300
+[2025-11-21 23:07:02] [EVENT] Enemy killed | Score = 400
+[2025-11-21 23:07:02] [EVENT] Enemy killed | Score = 500
+[2025-11-21 23:07:18] [SYSTEM] Logger initialized.
+[2025-11-21 23:07:18] [STATE] NONE -> MENU
+[2025-11-21 23:07:19] [EVENT] Game initialized.
+[2025-11-21 23:07:19] [STATE] MENU -> PLAYING
+[2025-11-21 23:07:19] [EVENT] Starting Wave 1
+[2025-11-21 23:07:22] [EVENT] Enemy killed | Score = 100
+[2025-11-21 23:07:24] [EVENT] Enemy killed | Score = 200
+[2025-11-21 23:07:24] [EVENT] Enemy killed | Score = 300
+[2025-11-21 23:07:27] [EVENT] Enemy killed | Score = 400
+[2025-11-21 23:07:27] [EVENT] Enemy killed | Score = 500
+[2025-11-21 23:07:28] [EVENT] Enemy killed | Score = 600
+[2025-11-21 23:07:28] [EVENT] Enemy killed | Score = 700
+[2025-11-21 23:07:28] [EVENT] Enemy killed | Score = 800
+[2025-11-21 23:07:28] [EVENT] Starting Wave 2
+[2025-11-21 23:07:29] [EVENT] Enemy killed | Score = 900
+[2025-11-21 23:07:29] [EVENT] Enemy killed | Score = 1000
+[2025-11-21 23:07:32] [EVENT] Enemy killed | Score = 1100
+[2025-11-21 23:07:32] [EVENT] Enemy killed | Score = 1200
+[2025-11-21 23:07:32] [EVENT] Enemy killed | Score = 1300
+[2025-11-21 23:07:32] [EVENT] Enemy killed | Score = 1400
+[2025-11-21 23:07:32] [EVENT] Enemy killed | Score = 1500
+[2025-11-21 23:07:33] [EVENT] Enemy killed | Score = 1600
+[2025-11-21 23:07:35] [EVENT] Enemy killed | Score = 1700
+[2025-11-21 23:07:36] [EVENT] Enemy killed | Score = 1800
+[2025-11-21 23:07:36] [EVENT] Enemy killed | Score = 1900
+[2025-11-21 23:07:36] [EVENT] Enemy killed | Score = 2000
+[2025-11-21 23:07:36] [EVENT] Starting Wave 3
+[2025-11-21 23:07:36] [EVENT] Enemy killed | Score = 2100
+[2025-11-21 23:07:38] [EVENT] Enemy killed | Score = 2200
+[2025-11-21 23:07:38] [EVENT] Enemy killed | Score = 2300
+[2025-11-21 23:07:38] [EVENT] Enemy killed | Score = 2400
+[2025-11-21 23:07:39] [EVENT] Enemy killed | Score = 2500
+[2025-11-21 23:07:40] [EVENT] Enemy killed | Score = 2600
+[2025-11-21 23:07:47] [EVENT] Enemy killed | Score = 2700
+[2025-11-21 23:07:49] [EVENT] Power-up collected: speed
+[2025-11-21 23:07:53] [EVENT] Enemy killed | Score = 2800
+[2025-11-21 23:07:53] [EVENT] All waves cleared → Victory!
+[2025-11-21 23:07:53] [STATE] PLAYING -> VICTORY
+[2025-11-21 23:07:53] [EVENT] Retry selected (Victory → PlayingState)
+[2025-11-21 23:07:53] [STATE] VICTORY -> PLAYING
+[2025-11-21 23:07:53] [EVENT] Starting Wave 1
+[2025-11-21 23:08:00] [EVENT] Enemy killed | Score = 100
+[2025-11-21 23:08:01] [EVENT] Enemy killed | Score = 200
+[2025-11-21 23:08:01] [EVENT] Enemy killed | Score = 300
+[2025-11-21 23:08:04] [EVENT] Enemy killed | Score = 400
+[2025-11-21 23:08:04] [EVENT] Enemy killed | Score = 500
+[2025-11-21 23:08:06] [EVENT] Enemy killed | Score = 600
+[2025-11-21 23:08:06] [EVENT] Enemy killed | Score = 700
+[2025-11-21 23:08:11] [EVENT] Power-up collected: fast
+[2025-11-21 23:08:12] [EVENT] Enemy killed | Score = 800
+[2025-11-21 23:08:12] [EVENT] Starting Wave 2
+[2025-11-21 23:08:12] [EVENT] Enemy killed | Score = 900
+[2025-11-21 23:08:16] [EVENT] Enemy killed | Score = 1000
+[2025-11-21 23:08:17] [EVENT] Enemy killed | Score = 1100
+[2025-11-21 23:08:17] [EVENT] Enemy killed | Score = 1200
+[2025-11-21 23:08:17] [EVENT] Enemy killed | Score = 1300
+[2025-11-21 23:08:17] [EVENT] Enemy killed | Score = 1400
+[2025-11-21 23:08:17] [EVENT] Enemy killed | Score = 1500
+[2025-11-21 23:08:18] [EVENT] Enemy killed | Score = 1600
+[2025-11-21 23:08:18] [EVENT] Enemy killed | Score = 1700
+[2025-11-21 23:08:18] [EVENT] Enemy killed | Score = 1800
+[2025-11-21 23:08:18] [EVENT] Enemy killed | Score = 1900
+[2025-11-21 23:08:23] [EVENT] Power-up collected: shield
+[2025-11-21 23:08:25] [EVENT] Enemy killed | Score = 2000
+[2025-11-21 23:08:25] [EVENT] Starting Wave 3
+[2025-11-21 23:08:25] [EVENT] Enemy killed | Score = 2100
+[2025-11-21 23:08:25] [EVENT] Enemy killed | Score = 2200
+[2025-11-21 23:08:25] [EVENT] Enemy killed | Score = 2300
+[2025-11-21 23:08:27] [EVENT] Enemy killed | Score = 2400
+[2025-11-21 23:08:28] [EVENT] Enemy killed | Score = 2500
+[2025-11-21 23:08:28] [EVENT] Enemy killed | Score = 2600
+[2025-11-21 23:08:28] [EVENT] Power-up collected: shield
+[2025-11-21 23:08:28] [EVENT] Enemy killed | Score = 2700
+[2025-11-21 23:08:28] [EVENT] Enemy killed | Score = 2800
+[2025-11-21 23:08:28] [EVENT] All waves cleared → Victory!
+[2025-11-21 23:08:28] [STATE] PLAYING -> VICTORY
+[2025-11-21 23:08:29] [EVENT] Retry selected (Victory → PlayingState)
+[2025-11-21 23:08:29] [STATE] VICTORY -> PLAYING
+[2025-11-21 23:08:29] [EVENT] Starting Wave 1
+[2025-11-21 23:21:33] [SYSTEM] Logger initialized.
+[2025-11-21 23:21:33] [STATE] NONE -> MENU
+[2025-11-21 23:21:34] [EVENT] Game initialized.
